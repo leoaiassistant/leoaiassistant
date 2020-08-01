@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hello World! 🤖 I'm Leoaiassistant </h1>
-<h3 align="center">An AI Expert & NLP Developer! Winner of NASA Space Apps 2020, Startup Weekend Korea, International Monetary Fund Hack 2019, TechCrunch DisruptSF Hackathon 2018  & Contributor at Planeta Chatbot passionate Data Scientist and Open Source contributor  </h3>
+<h4 align="center">An AI Expert & NLP Developer! Winner of NASA Space Apps, SW Korea, IMF & TechCrunch DisruptSF Hackathon </h4>
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=tomkax" alt="tomkaX" />
+<img src="https://komarev.com/ghpvc/?username=leoaiassistant" alt="leoaiassistant" />
 
  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" alt="aws"  width="20" height="20" /> 
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
@@ -32,11 +32,11 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/></p>
 
-- 👨‍💻 All of my projects are available  [here](https://github.com/tomkaX?tab=repositories)
+- 👨‍💻 All of my projects are available  [here](https://github.com/leoaiassistant?tab=repositories)
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **tomacolyada@gmail.com**
+- 📫 How to reach me **leandrocg@consultant.com**
 
 
 
