@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=leoaiassistant" alt="leoaiassistant" />
+<img src="https://komarev.com/ghpvc/?username=tomkaX" alt="tomkaX" />
 
  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" alt="aws"  width="20" height="20" /> 
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=tomkax&show_icons=true" alt="tomkaX" />
-  <img  align="right" src="https://github.com/tomkaX/tomkaX/blob/master/gifs/3aM.gif" width="230">
+  <img src="https://github-readme-stats.vercel.app/api?username=leoaiassistant&show_icons=true" alt="leoaiassistant" />
+  <img  align="right" src="https://github.com/leoaiassistant/leoaiassistant/blob/master/gifs/3aM.gif" width="230">
  </p>
 
 <p align="center">
